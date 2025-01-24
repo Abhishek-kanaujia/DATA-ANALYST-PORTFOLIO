@@ -15,10 +15,13 @@
    - **Fix Data Types**: Ensure that all columns have appropriate data types (e.g., dates are in `datetime` format, prices are in `float` format).
    - **Currency Formatting**: Standardize currency values using `.replace()` to facilitate accurate analysis.
    - **Validation**: Review the cleaned data for any remaining inconsistencies and verify that the dataset is ready for analysis.
-
 ### 4. **Feature Engineering**
-   - **Create New Columns**: Introduce new calculated fields, such as Total Amount for each transaction (unit price * quantity), to enrich the dataset.
-   - **Enhance Dataset**: These new features support more advanced SQL queries and aggregation tasks in later stages of analysis.
+- **Create New Columns**: Introduce new calculated fields to enrich the dataset:
+  - **Total Amount**: Calculated by multiplying `unit_price` by `quantity`.
+  - **Month and Year**: Extract the month and year from the `date` column for time-based analysis.
+  - **Profit**: Calculated by multiplying `total_amount` by `profit_margin`.
+  - **Day Name**: Extract the day name from the `date` column to analyze sales by day of the week.
+  - **Hour**: Extract the hour from the `time` column to analyze sales by time of day.
 
 ### 5. **SQL Analysis: Complex Queries and Business Problem Solving**
    - **Objective**: Use SQL to solve key business problems and answer critical questions, including:
