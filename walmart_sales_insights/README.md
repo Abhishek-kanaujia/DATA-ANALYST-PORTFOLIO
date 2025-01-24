@@ -47,4 +47,5 @@
 - **Peak Shopping Hours**: Sales peak between 15:00 and 20:00, with a significant decline late-night, indicating the need for strategic staffing and promotions during peak hours.
 - **Weekend Sales**: Saturdays see the highest sales, followed by Fridays and Sundays, suggesting a focus on promotions and staffing for weekend shoppers.
 ## Acknowledgement
-Data Source: Kaggle’s Walmart Sales Dataset
+Data Source: Kaggle’s [Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets)
+
