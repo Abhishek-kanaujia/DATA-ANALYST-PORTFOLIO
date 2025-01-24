@@ -30,3 +30,19 @@
 
 ### 6. **Data Visualization and Insight Generation**
    - **Objective**: Visualize key trends and insights using appropriate charts and graphs to communicate the findings effectively.
+## Results and Insights
+
+- **Credit Card Transactions**: Credit cards dominate in both transaction volume and quantity sold, indicating a strong preference for this payment method at specific branches.
+- **Customer Preferences**: Satisfaction varies by branch, with top-rated categories suggesting areas for improvement and targeted marketing.
+- **Peak Transaction Days**: Sales peak on weekends and specific weekdays, providing insights for optimal staffing and inventory management.
+- **Payment Method Preferences**: Credit cards are the most preferred payment method, followed by e-wallets and cash, highlighting opportunities to enhance digital payment systems.
+- **Regional Product Preferences**: Product ratings, especially in 'Health and Beauty,' differ by city, offering opportunities to tailor offerings by region.
+- **Revenue Drivers**: 'Fashion accessories' and 'Home and lifestyle' categories are the leading revenue generators.
+- **Sales Trends by Time**: Peak transaction volumes occur in the afternoon and evening, particularly during evening hours, indicating a need for tailored staffing and inventory.
+- **Branch Revenue Decline**: Revenue has significantly declined in branches like WALM045 and WALM047, requiring targeted recovery strategies.
+- **Monthly Sales Fluctuations**: Sales fluctuate monthly, with higher sales during seasonal peaks or promotions, offering insights for future strategies.
+- **Top Branches**: The top 20 branches contribute most of the sales, suggesting a focus on scalability and resource allocation for underperforming locations.
+- **Category Revenue Performance**: 'Fashion accessories' and 'Home and lifestyle' drive the most revenue, warranting prioritization in marketing and inventory.
+- **Category Ratings**: 'Food and beverages' and 'Health and beauty' receive the highest ratings, while 'Fashion accessories' may need improvements.
+- **Peak Shopping Hours**: Sales peak between 15:00 and 20:00, with a significant decline late-night, indicating the need for strategic staffing and promotions during peak hours.
+- **Weekend Sales**: Saturdays see the highest sales, followed by Fridays and Sundays, suggesting a focus on promotions and staffing for weekend shoppers.
