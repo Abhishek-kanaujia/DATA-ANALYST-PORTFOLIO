@@ -6,26 +6,10 @@ This project focuses on analyzing Walmart sales data to extract actionable busin
 The analysis addresses key business questions related to sales performance, revenue trends, customer behavior, product preferences, and more.
 
 ## Table of Contents
-- Project Objectives
-- Tools and Libraries Used
-- Project Steps
-- Key Insights & Results
-- Actionable Insights & Recommendations
-- Conclusion & Next Steps
-- Acknowledgement
-- Disclaimer
-- License
-## Table of Contents
 
 1. [Project Objectives](#project-objectives)
 2. [Tools and Libraries Used](#tools-and-libraries-used)
 3. [Project Steps](#project-steps)
-    - [Loading Data](#loading-data)
-    - [Exploring the Data](#exploring-the-data)
-    - [Data Cleaning](#data-cleaning)
-    - [Feature Engineering](#feature-engineering)
-    - [SQL Analysis: Complex Queries & Business Problem Solving](#sql-analysis-complex-queries--business-problem-solving)
-    - [Data Visualization and Insight Generation](#data-visualization-and-insight-generation)
 4. [Key Insights & Results](#key-insights--results)
 5. [Actionable Insights & Recommendations](#actionable-insights--recommendations)
 6. [Conclusion & Next Steps](#conclusion--next-steps)
