@@ -14,8 +14,8 @@ The analysis addresses key business questions related to sales performance, reve
 5. [Actionable Insights & Recommendations](#actionable-insights--recommendations)
 6. [Conclusion & Next Steps](#conclusion--next-steps)
 7. [Acknowledgement](#acknowledgement)
-8. [Disclaimer](#disclaimer)
-9. [License](#license)
+8. [License](#license)
+9. [Disclaimer](#disclaimer)
 
 ## Project Objectives
 The goal of this project is to uncover meaningful insights from Walmart’s sales data that can guide business strategy, optimize operations, and improve customer experience. Specifically, we aim to answer the following questions:
@@ -96,8 +96,10 @@ This analysis provides valuable insights into Walmart’s sales trends and custo
 
 ## Acknowledgement
 Data Source: This project uses the [Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets) provided by Najir 0123, licensed under the [MIT License](https://opensource.org/licenses/MIT).
-## Disclaimer
-This project is an **independent analysis** using publicly available data from Kaggle. It is **not affiliated with or endorsed by Walmart, Inc.** The name "Walmart" is used for educational and analysis purposes only.
 
 ## License
 The dataset used in this project is licensed under the **MIT License**. For more details, see the full license at [MIT License](https://opensource.org/licenses/MIT).
+
+## Disclaimer
+This project is an **independent analysis** using publicly available data from Kaggle. It is **not affiliated with or endorsed by Walmart, Inc.** The name "Walmart" is used for educational and analysis purposes only.
+
