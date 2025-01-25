@@ -95,7 +95,7 @@ This analysis provides valuable insights into Walmart’s sales trends and custo
 - **Product Performance**: Conduct a deeper dive into the performance of individual products to identify those that need more promotion or discontinuation.
 
 ## Acknowledgement
-Data Source:This project uses the [Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets) provided by Najir 0123, licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Data Source: This project uses the [Walmart Sales Dataset](https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets) provided by Najir 0123, licensed under the [MIT License](https://opensource.org/licenses/MIT).
 ## Disclaimer
 This project is an **independent analysis** using publicly available data from Kaggle. It is **not affiliated with or endorsed by Walmart, Inc.** The name "Walmart" is used for educational and analysis purposes only.
 
