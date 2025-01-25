@@ -13,8 +13,8 @@ The analysis addresses key business questions related to sales performance, reve
 - Actionable Insights & Recommendations
 - Conclusion & Next Steps
 - Acknowledgement
-- **Disclaimer**
-- **License**
+- Disclaimer
+- License
 
 ## Project Objectives
 The goal of this project is to uncover meaningful insights from Walmart’s sales data that can guide business strategy, optimize operations, and improve customer experience. Specifically, we aim to answer the following questions:
