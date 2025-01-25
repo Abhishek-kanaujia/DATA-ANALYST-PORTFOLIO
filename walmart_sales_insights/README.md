@@ -101,11 +101,3 @@ This project is an **independent analysis** using publicly available data from K
 
 ## License
 The dataset used in this project is licensed under the **MIT License**. For more details, see the full license at [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-### Key Changes:
-- Added **Disclaimer** clarifying the project is not affiliated with Walmart.
-- Included **License** section to specify that the dataset is licensed under the **MIT License** and to provide a link to the full license.
-
-This version of the README file ensures that you’re following proper attribution guidelines and protecting yourself from any potential trademark or affiliation confusion.
