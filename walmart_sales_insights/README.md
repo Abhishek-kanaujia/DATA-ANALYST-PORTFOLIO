@@ -31,8 +31,6 @@ The goal of this project is to uncover meaningful insights from Walmart’s sale
 - **Pandas**: Used for data manipulation, cleaning, and transformation.
 - **pandasql**: A SQL library for querying Pandas DataFrames, providing advanced querying capabilities.
 - **Matplotlib**: Utilized for data visualization, helping to identify trends and patterns in the data.
-- **Numpy**: Used for numerical operations where necessary.
-- **Seaborn**: Optional for advanced visualizations.
 
 ## Project Steps
 
@@ -49,7 +47,7 @@ An initial exploration of the dataset helps us understand its structure, identif
 Data cleaning ensures that the dataset is in a usable form for analysis. The following tasks were performed:
 
 - **Remove Duplicates**: Duplicate records were identified and removed.
-- **Handle Missing Values**: Missing values were either dropped or imputed, depending on their significance.
+- **Handle Missing Values**: Missing values were found to be minimal, so they were dropped to ensure the integrity of the analysis without losing significant data.
 - **Fix Data Types**: Data types were adjusted where necessary (e.g., converting date columns to datetime format, numeric columns to float).
 - **Currency Formatting**: Currency values were standardized for consistency.
 - **Validation**: A final review was conducted to ensure that the data was cleaned and ready for analysis.
