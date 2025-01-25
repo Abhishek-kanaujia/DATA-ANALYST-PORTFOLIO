@@ -15,6 +15,23 @@ The analysis addresses key business questions related to sales performance, reve
 - Acknowledgement
 - Disclaimer
 - License
+## Table of Contents
+
+1. [Project Objectives](#project-objectives)
+2. [Tools and Libraries Used](#tools-and-libraries-used)
+3. [Project Steps](#project-steps)
+    - [Loading Data](#loading-data)
+    - [Exploring the Data](#exploring-the-data)
+    - [Data Cleaning](#data-cleaning)
+    - [Feature Engineering](#feature-engineering)
+    - [SQL Analysis: Complex Queries & Business Problem Solving](#sql-analysis-complex-queries--business-problem-solving)
+    - [Data Visualization and Insight Generation](#data-visualization-and-insight-generation)
+4. [Key Insights & Results](#key-insights--results)
+5. [Actionable Insights & Recommendations](#actionable-insights--recommendations)
+6. [Conclusion & Next Steps](#conclusion--next-steps)
+7. [Acknowledgement](#acknowledgement)
+8. [Disclaimer](#disclaimer)
+9. [License](#license)
 
 ## Project Objectives
 The goal of this project is to uncover meaningful insights from Walmart’s sales data that can guide business strategy, optimize operations, and improve customer experience. Specifically, we aim to answer the following questions:
