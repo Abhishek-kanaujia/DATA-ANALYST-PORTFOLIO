@@ -175,4 +175,3 @@ The project includes the following Power BI dashboards to visualize the results 
 7. **Monitor Transaction Trends for Seasonal Adjustments**  
    - **Insight**: There are likely seasonal patterns in transaction volumes and revenue generation.
    - **Recommendation**: Leverage historical data to forecast trends and adjust marketing, promotions, and product offerings according to peak transaction periods (e.g., holidays, special events). This will help the company make proactive adjustments to optimize sales and customer engagement.
-[View the full documentation in PDF format](Credit Card Customer-Transaction Report/Credit_Card_Transaction_and_Customer_Report.pdf)
