@@ -28,7 +28,7 @@ The project includes the following Power BI dashboards:
 
 ## Key Insights & Results
 - Identified top-performing customer segments contributing significantly to revenue.
-- Discovered seasonal trends in transaction volumes and spending behavior.
+- Discovered seasonal trends in transaction volumes and revenue generation.
 - Highlighted underperforming product categories and regions for targeted marketing strategies.
 - Provided insights into customer churn based on transaction patterns.
 
