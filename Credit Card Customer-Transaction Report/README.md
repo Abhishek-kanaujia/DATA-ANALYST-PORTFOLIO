@@ -21,7 +21,7 @@ This project aims to analyze customer transaction data for a credit card company
 
 ## Dashboards
 The project includes the following Power BI dashboards:
-- **Overview Dashboard**: A high-level summary of customer transactions and spending trends.
+- **Overview Dashboard**: A summary of customer transactions and trends in revenue generation.
 - **Customer Segmentation**: Insights into customer demographics and segmentation.
 - **Spending Trends**: Detailed visualizations of spending habits by time, category, and location.
 - **High-Value Customer Analysis**: Identification of top customers contributing to revenue.
