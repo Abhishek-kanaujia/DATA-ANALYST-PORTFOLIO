@@ -23,14 +23,13 @@ This project aims to analyze customer transaction data for a credit card company
 The project includes the following Power BI dashboards:
 - **Overview Dashboard**: A summary of customer transactions and trends in revenue generation.
 - **Customer Segmentation**: Insights into customer demographics and segmentation.
-- **Spending Trends**: Detailed visualizations of spending habits by time, category, and location.
+- **Spending Trends**: In-depth visualizations of revenue generation across time, categories, and locations.
 - **High-Value Customer Analysis**: Identification of top customers contributing to revenue.
 
 ## Key Insights & Results
 - Identified top-performing customer segments contributing significantly to revenue.
-- Discovered seasonal trends in transaction volumes and revenue generation.
-- Highlighted underperforming product categories and regions for targeted marketing strategies.
-- Provided insights into customer churn based on transaction patterns.
+- Identified seasonal patterns in transaction volumes and revenue generation.
+- Highlighted underperforming categories and regions for targeted marketing strategies.
 
 ## Actionable Insights & Recommendations
 - Focus marketing campaigns on high-value customer segments to maximize ROI.
