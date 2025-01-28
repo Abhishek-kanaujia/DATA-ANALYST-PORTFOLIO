@@ -113,15 +113,6 @@ The project includes the following Power BI dashboards:
 - The **overall delinquent rate** is **6.06%**.
 
 ## Actionable Insights & Recommendations
-- Focus marketing campaigns on high-value customer segments to maximize ROI.
-- Introduce loyalty programs to retain customers with declining transactions.
-- Optimize product offerings based on popular categories and regional demand.
-- Improve service offerings in underperforming regions.
-Certainly! Here are the actionable insights and recommendations based on the provided data:
-
----
-
-## Actionable Insights & Recommendations
 
 1. **Target High-Value Customers (Male Segment)**  
    - **Insight**: Male customers are contributing more significantly to revenue (31M) compared to female customers (26M).
