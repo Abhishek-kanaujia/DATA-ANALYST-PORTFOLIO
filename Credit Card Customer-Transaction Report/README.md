@@ -61,9 +61,9 @@ To categorize customers into income groups:
 ```DAX
 IncomeGroup = SWITCH(
     TRUE(),
-    'public cust_detail'[income] < 35000, "Low",
-    'public cust_detail'[income] >= 35000 && 'public cust_detail'[income] < 70000, "Med",
-    'public cust_detail'[income] >= 70000, "High",
+    'public cust_detail'[income] < 35000, "LOW",
+    'public cust_detail'[income] >= 35000 && 'public cust_detail'[income] < 70000, "MED",
+    'public cust_detail'[income] >= 70000, "HIGH",
     "unknown"
 )
 ```
