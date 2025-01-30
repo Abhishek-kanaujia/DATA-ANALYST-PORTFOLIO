@@ -135,7 +135,7 @@ The project includes the following Power BI dashboards to visualize the results 
    - Visualizes revenue generation by state or region, identifying areas contributing the most to the overall revenue (e.g., TX, NY, CA).
    - Helps optimize regional marketing strategies and understand geographic patterns in customer behavior.
 ![Credit Card Transaction Report](Credit Card Customer-Transaction Report/CreditCardTransactionReport.jpeg)
-![Credit Card Customer Report](Credit Card Customer-Transaction Report/CreditCardCustomerReport.jpeg)
+![Credit Card Customer Report](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Credit%20Card%20Customer-Transaction%20Report/CreditCardCustomerReport.jpeg)
 
 ## Key Insights & Results
 - **Overall revenue** is **57M**.
