@@ -30,15 +30,12 @@ A new table, `prod_Churn`, is created to handle missing values by replacing them
 - **Monthly Charge Range:** A new column is created to categorize `monthly_charge_range` into ranges: "< 20", "20-50", "50-100", and "> 100".
 
 #### Age Group Mapping (Mapping_AgeGrp):
-- A new table is created for age groups based on the `Age` column, categorized into groups: "< 20", "20-35", "36-50", and "> 50".
+- A new table is created for age groups based on the `age` column, categorized into groups: "< 20", "20-35", "36-50", and "> 50".
 - The `AgeGrpSorting` column is created to assign a numeric value to each group for sorting purposes.
 
 #### Tenure Group Mapping (Mapping_TenureGrp):
-- A new table is created for tenure groups based on `Tenure_in_Months`, categorized into ranges: "< 6 Months", "6-12 Months", "12-18 Months", "18-24 Months", and ">= 24 Months".
+- A new table is created for tenure groups based on `tenure_in_months`, categorized into ranges: "< 6 Months", "6-12 Months", "12-18 Months", "18-24 Months", and ">= 24 Months".
 - The `TenureGrpSorting` column is created for sorting these groups numerically.
-
-#### Service Unpivot (Mapping_Services):
-- All service-related columns (e.g., Streaming_TV, Phone_Service) are unpivoted into a `Services` column, with a corresponding `Status` column indicating whether the service is active or not.
 
 ### 3. **Power BI Dashboard Creation**
 
