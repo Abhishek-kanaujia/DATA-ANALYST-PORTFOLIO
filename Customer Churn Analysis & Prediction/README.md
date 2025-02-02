@@ -49,11 +49,6 @@ An interactive dashboard is created in Power BI to visualize customer churn insi
 - **Total Churn:** Count of churned customers (based on the Churn Status column).
 - **Churn Rate:** The percentage of churned customers relative to the total customer base.
 
-#### Churn Prediction Dashboard:
-A separate dashboard is created to visualize the predictions for churn:
-- **Predicted Churners:** A count of customers predicted to churn based on machine learning models (using the Predictions table).
-- **Predicted Churn Rate:** A title that dynamically updates to reflect the count of predicted churners.
-
 ### 4. **Machine Learning for Churn Prediction**
 
 #### Model Building:
@@ -62,6 +57,13 @@ Machine learning algorithm (Random Forest) is applied to predict churn using the
 
 #### Model Evaluation:
 The model is evaluated using common metrics such as accuracy, precision, recall, f1 score and support to ensure the effectiveness of the churn prediction model.
+
+### 5. **Power BI Dashboard Creation**
+
+#### Churn Prediction Dashboard:
+A separate dashboard is created to visualize the predictions for churn:
+- **Predicted Churners:** A count of customers predicted to churn based on machine learning models (using the Predictions table).
+- **Predicted Churn Rate:** A title that dynamically updates to reflect the count of predicted churners.
 
 ## Requirements
 
