@@ -48,6 +48,7 @@ An interactive dashboard is created in Power BI to visualize customer churn insi
 - **New Joiners:** Count of customers who joined the service.
 - **Total Churn:** Count of churned customers (based on the Churn Status column).
 - **Churn Rate:** The percentage of churned customers relative to the total customer base.
+
 ![Churn Trends & Insights](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnTrends%26Insights.jpeg)
 
 
