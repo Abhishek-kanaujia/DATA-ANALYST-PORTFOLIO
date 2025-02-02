@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a data analysis and machine learning project focused on predicting customer churn for a telecommunications company. The project uses SQL for data cleaning and preprocessing, Power Query and DAX in Power BI for data transformation and visualization, and machine learning algorithms for churn prediction. The final result is an interactive dashboard that provides insights into customer churn and predictions.
+This is a data analysis and machine learning project focused on predicting customer churn for a telecommunications company. The project uses SQL for data cleaning and preprocessing, Power Query and DAX in Power BI for data transformation and visualization, and machine learning algorithms for churn prediction. The final result is an interactive dashboard that provides insights into customer churn and predictions.
 
 ## Project Flow
 
