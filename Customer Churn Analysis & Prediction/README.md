@@ -4,6 +4,9 @@
 
 This is a data analysis and machine learning project focused on predicting customer churn for a telecommunications company. The project uses SQL for data cleaning and preprocessing, Power Query and DAX in Power BI for data transformation and visualization, and machine learning algorithms for churn prediction. The final result is an interactive dashboard that provides insights into customer churn and predictions.
 
+## Tools used:
+PostgreSQL, Power BI, Python (for machine learning)
+
 ## Project Flow
 
 ### 1. **SQL Data Preprocessing**
@@ -81,10 +84,11 @@ The model is evaluated using common metrics such as accuracy, precision, recall,
 - Power BI Desktop installed.
 - The `prod_Churn` table and machine learning model predictions are needed to load into Power BI.
 
-### Machine Learning (Optional)
-- Python 3.x
+### Machine Learning
+- Python 
 - Libraries:
   - `pandas`
+  - `psycopg2`
   - `scikit-learn`
   - `numpy`
   - `matplotlib`, `seaborn` (for visualizations)
@@ -108,13 +112,3 @@ The model is evaluated using common metrics such as accuracy, precision, recall,
 ### 4. **Power BI Dashboard**
 - Import the model predictions into Power BI.
 - Create the interactive dashboards for churn analysis and churn predictions.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgements
-- **Data source:** [Add source of your dataset]
-- **Tools used:** PostgreSQL, Power BI, Python (for machine learning)
-- Special thanks to [Add any additional acknowledgements here].
-
