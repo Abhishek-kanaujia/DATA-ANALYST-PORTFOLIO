@@ -51,7 +51,6 @@ An interactive dashboard is created in Power BI to visualize customer churn insi
 
 ![Churn Trends & Insights](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnTrends%26Insights.jpeg)
 
-
 ### 4. **Machine Learning for Churn Prediction**
 
 #### Model Building:
@@ -67,6 +66,8 @@ The model is evaluated using common metrics such as accuracy, precision, recall,
 A separate dashboard is created to visualize the predictions for churn:
 - **Predicted Churners:** A count of customers predicted to churn based on machine learning models (using the Predictions table).
 - **Predicted Churn Rate:** A title that dynamically updates to reflect the count of predicted churners.
+
+![Churn Prediction Dashboard](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnPredictionDashboard.jpeg)
 
 ## Requirements
 
