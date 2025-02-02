@@ -54,7 +54,7 @@ A separate dashboard is created to visualize the predictions for churn:
 ### 4. **Machine Learning for Churn Prediction**
 
 #### Model Building:
-Machine learning algorithms (e.g., Logistic Regression, Decision Trees) are applied to predict churn using the cleaned data from the `prod_Churn` table.
+Machine learning algorithm (Random Forest) is applied to predict churn using the cleaned data from the `prod_Churn` table.
 - Features like `Monthly_Charge`, `Tenure_in_Months`, and `Age` are used to train the model.
 
 #### Model Evaluation:
