@@ -58,7 +58,7 @@ Machine learning algorithm (Random Forest) is applied to predict churn using the
 - Features like `monthly_charge`, `tenure_in_months`, and `age` are used to train the model.
 
 #### Model Evaluation:
-The model is evaluated using common metrics such as accuracy, precision, recall, and ROC-AUC to ensure the effectiveness of the churn prediction model.
+The model is evaluated using common metrics such as accuracy, precision, recall, f1 score and support to ensure the effectiveness of the churn prediction model.
 
 ## Files & Folders
 
