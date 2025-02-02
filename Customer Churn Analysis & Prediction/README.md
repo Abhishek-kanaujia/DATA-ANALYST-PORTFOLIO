@@ -63,17 +63,6 @@ Machine learning algorithm (Random Forest) is applied to predict churn using the
 #### Model Evaluation:
 The model is evaluated using common metrics such as accuracy, precision, recall, f1 score and support to ensure the effectiveness of the churn prediction model.
 
-## Files & Folders
-
-- **SQL_Scripts:**  
-  All SQL scripts for data preparation, cleaning, exploration, and creating views are in this folder.
-
-- **PowerBI:**  
-  Power BI file(s) that include the transformations, measures, and dashboards for the churn analysis and prediction.
-
-- **Machine_Learning:**  
-  Python scripts or Jupyter notebooks (if applicable) for training the churn prediction model.
-
 ## Requirements
 
 ### SQL Setup
