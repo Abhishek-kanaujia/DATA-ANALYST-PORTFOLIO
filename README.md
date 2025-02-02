@@ -23,7 +23,6 @@ This repository serves as a showcase of my skills and portfolio projects, where 
 In this section, I have listed my data analysis projects, with a brief description of the technologies and tools used to solve various cases.
 
 ### Walmart Sales Data Analysis
-**Code**: [Walmart Sales Data Analysis.ipynb](#)
 
 **Goal**: To analyze sales data and uncover trends in customer behavior and sales performance.
 
@@ -38,7 +37,6 @@ In this section, I have listed my data analysis projects, with a brief descripti
 ---
 
 ### Credit Card Customer-Transaction Report
-**Code**: [Credit Card Customer-Transaction Report.ipynb](#)
 
 **Goal**: To analyze customer transaction data and identify high-value segments for targeted marketing.
 
@@ -53,7 +51,6 @@ In this section, I have listed my data analysis projects, with a brief descripti
 ---
 
 ### Telco Customer Churn Analysis
-**Code**: [Telco Customer Churn Analysis.ipynb](#)
 
 **Goal**: To predict customer churn and visualize churn trends to support business decisions.
 
@@ -83,7 +80,6 @@ In this section, I have listed my data analysis projects, with a brief descripti
 - **Software Development & Testing Course** - Qspiders, Pune (Feb 2022 - Sept 2022)
 
 ## Contact
-- **LinkedIn**: [@AbhishekKanaujia](https://www.linkedin.com/in/abhishekkanaujia/)
+- **LinkedIn**: [@AbhishekKanaujia](https://www.linkedin.com/in/abhishek-kanaujia-profile/)
 - **Email**: abhishekkanaujia79@gmail.com
-- **GitHub**: [Abhishek's GitHub](https://github.com/Abhishek-Kanaujia)
 - **Phone**: +91 6375495375
