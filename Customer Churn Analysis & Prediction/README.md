@@ -96,7 +96,7 @@ The model is evaluated using common metrics such as accuracy, precision, recall,
 ### 3. **Building the Model**
 - Load the cleaned data from `prod_Churn` into your machine learning environment.
 - Train the churn prediction model using relevant features.
-- Save the predictions to a new table, `Predictions`.
+- Save the predictions to a new csv file, `churnPredictions`.
 
 ### 4. **Power BI Dashboard**
 - Import the model predictions into Power BI.
