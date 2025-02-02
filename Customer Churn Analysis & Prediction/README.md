@@ -27,7 +27,7 @@ A new table, `prod_Churn`, is created to handle missing values by replacing them
 - **Change Data Type:** The data type for Churn Status is changed to a number for further analysis.
 
 #### Monthly Charge Range Transformation:
-- **Monthly Charge Range:** A new column is created to categorize `Monthly_Charge` into ranges: "< 20", "20-50", "50-100", and "> 100".
+- **Monthly Charge Range:** A new column is created to categorize `monthly_charge_range` into ranges: "< 20", "20-50", "50-100", and "> 100".
 
 #### Age Group Mapping (Mapping_AgeGrp):
 - A new table is created for age groups based on the `Age` column, categorized into groups: "< 20", "20-35", "36-50", and "> 50".
