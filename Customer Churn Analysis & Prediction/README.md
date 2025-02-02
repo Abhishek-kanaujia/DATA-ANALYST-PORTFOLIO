@@ -55,7 +55,7 @@ A separate dashboard is created to visualize the predictions for churn:
 
 #### Model Building:
 Machine learning algorithm (Random Forest) is applied to predict churn using the cleaned data from the `prod_Churn` table.
-- Features like `Monthly_Charge`, `Tenure_in_Months`, and `Age` are used to train the model.
+- Features like `monthly_charge`, `tenure_in_months`, and `age` are used to train the model.
 
 #### Model Evaluation:
 The model is evaluated using common metrics such as accuracy, precision, recall, and ROC-AUC to ensure the effectiveness of the churn prediction model.
