@@ -39,7 +39,7 @@ A new table, `prod_Churn`, is created to handle missing values by replacing them
 
 ### 3. **Power BI Dashboard Creation**
 
-#### Churn Dashboard:
+#### Churn Trends & Insights:
 An interactive dashboard is created in Power BI to visualize customer churn insights, including:
 - **Total Customers:** Count of all customers in the dataset.
 - **New Joiners:** Count of customers who joined the service.
