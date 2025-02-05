@@ -77,7 +77,7 @@ In this section, I have listed my data analysis projects, with a brief descripti
 ## Certifications
 - **Data Analyst Certification** (Python, Excel, SQL, Power BI) - Udemy
 - **Oracle SQL Certification** - Udemy
-- **Software Development & Testing Course** - Qspiders, Pune (Feb 2022 - Sept 2022)
+- **Software Development & Testing Course** - Qspiders, Pune (February 2022 - September 2022)
 
 ## Contact
 - **LinkedIn**: [@AbhishekKanaujia](https://www.linkedin.com/in/abhishek-kanaujia-profile/)
