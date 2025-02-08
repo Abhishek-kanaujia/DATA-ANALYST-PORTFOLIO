@@ -154,9 +154,9 @@ Machine learning algorithm (Random Forest) is applied to predict churn using the
 #### Model Evaluation:
 The model is evaluated using common metrics such as accuracy, precision, recall, f1 score and support to ensure the effectiveness of the churn prediction model.
 
-# Power BI Dashboard Creation
+### 5. **Power BI Dashboard Creation**
 
-## Churn Prediction Dashboard:
+### Churn Prediction Dashboard:
 
 A dedicated dashboard visualizing the churn predictions using machine learning models, based on the Predictions table.
 
@@ -178,7 +178,7 @@ A dedicated dashboard visualizing the churn predictions using machine learning m
   - Male: 134 predicted churners
 
 - **By Age Group:**
-  - > 50 years: 128 predicted churners (Highest)
+  -> 50 years: 128 predicted churners (Highest)
   - 36-50 years: 125 predicted churners
   - 20-35 years: 111 predicted churners
   - < 20 years: Very low predicted churn
@@ -249,94 +249,6 @@ A dedicated dashboard visualizing the churn predictions using machine learning m
   - **Insight:** Marital status is relatively evenly split, but offers could be tailored.
   - **Recommendation:** Consider personalized offers based on marital status. For example, provide family-oriented packages or discounts to married customers, while offering individual promotions to those who are not married.
 
-### 5. **Power BI Dashboard Creation**
-
-#### Churn Prediction Dashboard:
-A separate dashboard is created to visualize the predictions for churn:
-- **Predicted Churners:** A count of customers predicted to churn based on machine learning models (using the Predictions table).
-- **Predicted Churn Rate:** A title that dynamically updates to reflect the count of predicted churners.
-
-![Churn Prediction Dashboard](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnPredictionDashboard.jpeg)
-
-## Key Insights & Results
-
-### **Overall Metrics:**
-- **Count of Predicted Churners:** 376  
-
----
-
-### **Predicted Churn Breakdown:**
-
-**By Gender:**
-- **Female:** 242 predicted churners *(Higher risk group)*  
-- **Male:** 134 predicted churners  
-
----
-
-**By Age Group:**
-- **> 50 years:** 128 predicted churners *(Highest)*  
-- **36-50 years:** 125 predicted churners  
-- **20-35 years:** 111 predicted churners  
-- **< 20 years:** Very low predicted churn  
-
----
-
-**By State (Top 5 States with Highest Predicted Churn):**
-- **Uttar Pradesh:** 42  
-- **Maharashtra:** 39  
-- **Tamil Nadu:** 37  
-- **Karnataka:** 30  
-- **Andhra Pradesh:** 24  
-
----
-
-### **Churn Rate Insights:**
-
-**By Internet Type:**
-- **None:** 144 predicted churners *(Highest)*  
-- **DSL:** 101 predicted churners  
-- **Fiber Optic:** 81 predicted churners  
-- **Cable:** 50 predicted churners *(Lowest)*  
-
----
-
-**By Contract Type:**
-- **Month-to-Month:** 356 predicted churners *(Overwhelmingly high churn)*  
-- **One Year:** Very few predicted churners  
-- **Two Year:** Very few predicted churners  
-
----
-
-**By Payment Method:**
-- **Credit Card:** 190 predicted churners *(Highest)*  
-- **Bank Withdrawal:** 150 predicted churners  
-- **Mailed Check:** 36 predicted churners *(Lowest)*  
-
----
-
-### **Churn by Tenure Group:**
-- **≥ 24 Months:** 107 predicted churners *(Highest)*  
-- **6-12 Months:** 88 predicted churners  
-- **< 6 Months:** 64 predicted churners  
-- **18-24 Months:** 60 predicted churners  
-- **12-18 Months:** 57 predicted churners *(Lowest)*  
-
----
-
-### **Marital Status:**
-- **Not Married:** 51% of predicted churners  
-- **Married:** 49% of predicted churners  
-
----
-
-### **Key Takeaways:**
-- **Females** and customers aged **over 50** are more likely to churn.
-- **Month-to-Month contracts** and **Credit Card payments** are strongly associated with predicted churn.
-- Customers with **no internet service** show the highest predicted churn, followed by **DSL users**.
-- **Uttar Pradesh** and **Maharashtra** have the highest number of predicted churners.
-- **Long-tenure customers (≥ 24 months)** are at higher churn risk, contrary to common expectations.
-
----
 ## Requirements
 
 ### SQL Setup
