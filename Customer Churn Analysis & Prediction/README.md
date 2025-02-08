@@ -21,7 +21,6 @@
    3. [Building the Model](#building-the-model)
    4. [Power BI Dashboard](#power-bi-dashboard)
 
-# Telco Customer Churn Analysis with SQL, Power BI, and Machine Learning
 
 ## Overview
 
