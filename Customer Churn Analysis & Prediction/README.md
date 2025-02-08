@@ -5,22 +5,10 @@
 1. [Overview](#overview)
 2. [Tools Used](#tools-used)
 3. [Project Flow](#project-flow)
-   1. [SQL Data Preprocessing](#sql-data-preprocessing)
-   2. [Power BI Data Transformations (Power Query)](#power-bi-data-transformations-power-query)
-   3. [Power BI Dashboard Creation](#power-bi-dashboard-creation)
-   4. [Machine Learning for Churn Prediction](#machine-learning-for-churn-prediction)
 4. [Key Insights & Results](#key-insights--results)
 5. [Actionable Insights & Recommendations](#actionable-insights--recommendations)
 6. [Requirements](#requirements)
-   1. [SQL Setup](#sql-setup)
-   2. [Power BI Setup](#power-bi-setup)
-   3. [Machine Learning](#machine-learning)
 7. [Instructions to Run](#instructions-to-run)
-   1. [Setting Up the Database](#setting-up-the-database)
-   2. [Power BI Transformations](#power-bi-transformations)
-   3. [Building the Model](#building-the-model)
-   4. [Power BI Dashboard](#power-bi-dashboard)
-
 
 ## Overview
 
