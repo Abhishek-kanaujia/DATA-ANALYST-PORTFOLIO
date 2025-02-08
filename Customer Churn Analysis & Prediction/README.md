@@ -51,6 +51,82 @@ An interactive dashboard is created in Power BI to visualize customer churn insi
 
 ![Churn Trends & Insights](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnTrends%26Insights.jpeg)
 
+##  Key Insights & Results
+
+### **Overall Metrics:**
+- **Total Customers:** 6,418  
+- **New Joiners:** 411  
+- **Total Churn:** 1,732  
+- **Churn Rate:** 27%  
+
+---
+
+### **Churn Rate Insights:**
+
+**By Internet Type:**
+- **Fiber Optic:** 41.10% *(Highest churn rate)*  
+- **Cable:** 25.72%  
+- **DSL:** 19.37%  
+- **None:** 7.84% *(Lowest churn rate)*  
+
+**By Contract:**
+- **Month-to-Month:** 46.53% *(Significantly high churn rate)*  
+- **One Year:** 11.04%  
+- **Two Year:** Very low churn *(exact percentage not shown)*  
+
+**By Payment Method:**
+- **Mailed Check:** 37.82% *(Highest churn rate)*  
+- **Bank Withdrawal:** 34.43%  
+- **Credit Card:** 14.80% *(Lowest churn rate)*  
+
+---
+
+### **Demographic Insights:**
+
+**By Gender:**
+- **Male:** 64% of total churn  
+- **Female:** 36% of total churn  
+
+**By Age Group:**
+- **Under 20:** Low churn rate  
+- **20-35 & 36-50:** Moderate churn rate  
+- **Over 50:** Highest churn rate *(over 30%)*  
+
+**By State:**
+- **Jammu & Kashmir:** 57.19% *(Highest churn rate)*  
+- **Assam:** 38.13%  
+- **Jharkhand:** 34.51%  
+- **Chhattisgarh:** 30.51%  
+- **Delhi:** 29.92%  
+
+---
+
+### **Churn by Tenure:**
+- **< 6 Months:** Moderate churn rate  
+- **6-12 Months:** Higher churn rate  
+- **12-18 Months:** Dip in churn rate  
+- **18-24 Months:** Slight increase  
+- **≥ 24 Months:** Highest churn rate among tenure groups  
+
+---
+
+### **Churn Categories:**
+- **Competitor:** 761 churns *(Major reason)*  
+- **Attitude:** 301 churns  
+- **Dissatisfaction:** 300 churns  
+- **Price:** 196 churns  
+- **Other:** 174 churns  
+
+---
+
+### **Key Takeaways:**
+- **Fiber Optic customers** and **Month-to-Month contracts** have the highest churn rates.
+- **Credit Card payments** correlate with a lower churn rate, while **Mailed Check payments** see higher churn.
+- Customers **over 50 years old** and those from **Jammu & Kashmir** are most likely to churn.
+- **Competitor-related churn** is the most significant issue, suggesting strong competition in the market.
+
+---
+
 ### 4. **Machine Learning for Churn Prediction**
 
 #### Model Building:
