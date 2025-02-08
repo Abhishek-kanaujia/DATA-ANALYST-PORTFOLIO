@@ -1,5 +1,9 @@
 # Telco Customer Churn Analysis with SQL, Power BI, and Machine Learning
 
+## Overview
+
+This is a data analysis and machine learning project focused on predicting customer churn for a telecommunications company. The project uses SQL for data cleaning and preprocessing, Power Query and DAX in Power BI for data transformation and visualization, and machine learning algorithms for churn prediction. The final result is an interactive dashboard that provides insights into customer churn and predictions.
+
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -9,10 +13,6 @@
 5. [Actionable Insights & Recommendations](#actionable-insights--recommendations)
 6. [Requirements](#requirements)
 7. [Instructions to Run](#instructions-to-run)
-
-## Overview
-
-This is a data analysis and machine learning project focused on predicting customer churn for a telecommunications company. The project uses SQL for data cleaning and preprocessing, Power Query and DAX in Power BI for data transformation and visualization, and machine learning algorithms for churn prediction. The final result is an interactive dashboard that provides insights into customer churn and predictions.
 
 ## Tools used:
 PostgreSQL, Power BI, Python (for machine learning)
