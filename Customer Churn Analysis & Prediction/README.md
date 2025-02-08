@@ -40,6 +40,109 @@ A new table, `prod_Churn`, is created to handle missing values by replacing them
 - A new table is created for tenure groups based on `tenure_in_months`, categorized into ranges: "< 6 Months", "6-12 Months", "12-18 Months", "18-24 Months", and ">= 24 Months".
 - The `TenureGrpSorting` column is created for sorting these groups numerically.
 
+## Power BI Dashboard Creation
+
+### Churn Trends & Insights Dashboard:
+
+An interactive Power BI dashboard is created to visualize customer churn insights, focusing on identifying patterns and factors affecting customer retention. The dashboard includes the following visualizations:
+
+- **Total Customers**: Count of all customers in the dataset.
+- **New Joiners**: Count of customers who joined the service.
+- **Total Churn**: Count of churned customers (based on the Churn Status column).
+- **Churn Rate**: The percentage of churned customers relative to the total customer base.
+
+### Key Insights & Results
+
+**Overall Metrics**:
+- **Total Customers**: 6,418
+- **New Joiners**: 411
+- **Total Churn**: 1,732
+- **Churn Rate**: 27%
+
+**Churn Rate Insights**:
+- **By Internet Type**:
+  - **Fiber Optic**: 41.10% (Highest churn rate)
+  - **Cable**: 25.72%
+  - **DSL**: 19.37%
+  - **None**: 7.84% (Lowest churn rate)
+  
+- **By Contract**:
+  - **Month-to-Month**: 46.53% (Significantly high churn rate)
+  - **One Year**: 11.04%
+  - **Two Year**: Very low churn (exact percentage not shown)
+  
+- **By Payment Method**:
+  - **Mailed Check**: 37.82% (Highest churn rate)
+  - **Bank Withdrawal**: 34.43%
+  - **Credit Card**: 14.80% (Lowest churn rate)
+
+**Demographic Insights**:
+- **By Gender**:
+  - **Male**: 64% of total churn
+  - **Female**: 36% of total churn
+  
+- **By Age Group**:
+  - **Under 20**: Low churn rate
+  - **20-35 & 36-50**: Moderate churn rate
+  - **Over 50**: Highest churn rate (over 30%)
+  
+- **By State**:
+  - **Jammu & Kashmir**: 57.19% (Highest churn rate)
+  - **Assam**: 38.13%
+  - **Jharkhand**: 34.51%
+  - **Chhattisgarh**: 30.51%
+  - **Delhi**: 29.92%
+
+**Churn by Tenure**:
+- **< 6 Months**: Moderate churn rate
+- **6-12 Months**: Higher churn rate
+- **12-18 Months**: Dip in churn rate
+- **18-24 Months**: Slight increase
+- **≥ 24 Months**: Highest churn rate among tenure groups
+
+**Churn Categories**:
+- **Competitor**: 761 churns (Major reason)
+- **Attitude**: 301 churns
+- **Dissatisfaction**: 300 churns
+- **Price**: 196 churns
+- **Other**: 174 churns
+
+### Actionable Insights & Recommendations
+
+1. **Focus on Retaining Fiber Optic Customers**
+   - **Insight**: Fiber Optic customers have the highest churn rate (41.10%).
+   - **Recommendation**: Target Fiber Optic customers with retention strategies such as personalized offers, service improvements, and loyalty programs to lower churn.
+
+2. **Improve Retention for Month-to-Month Contracts**
+   - **Insight**: Month-to-Month contracts exhibit the highest churn rate (46.53%).
+   - **Recommendation**: Offer incentives for customers to upgrade to longer-term contracts (One Year or Two Year), such as discounts or exclusive benefits.
+
+3. **Incentivize Credit Card Payments**
+   - **Insight**: Credit Card payments correlate with the lowest churn rate (14.80%).
+   - **Recommendation**: Encourage customers to use Credit Card payment options by offering additional rewards or benefits for those who choose this payment method.
+
+4. **Target Male and Older Customers (50+) for Retention**
+   - **Insight**: Males account for 64% of churn, and customers over 50 years old have the highest churn rate (over 30%).
+   - **Recommendation**: Create targeted retention campaigns for male customers and those aged 50+ that address their specific concerns and offer tailored solutions.
+
+5. **Focus on High Churn States**
+   - **Insight**: Jammu & Kashmir, Assam, Jharkhand, Chhattisgarh, and Delhi have the highest churn rates.
+   - **Recommendation**: Implement region-specific retention strategies to address unique local challenges and reduce churn in these states.
+
+6. **Address Competitor-Related Churn**
+   - **Insight**: The primary churn reason is competition (761 churns).
+   - **Recommendation**: Enhance competitive advantage by introducing new features, improving customer service, and offering competitive pricing to retain customers from switching to competitors.
+
+7. **Leverage Customer Tenure Insights for Retention**
+   - **Insight**: Customers with < 6 months, 6-12 months, and ≥ 24 months of tenure exhibit varying churn behaviors.
+   - **Recommendation**: Introduce targeted retention programs for customers nearing 6 months or after 24 months of service to prevent churn in these periods.
+
+8. **Address Price Sensitivity**
+   - **Insight**: Price-related churn (196 churns) indicates some customers are leaving due to pricing concerns.
+   - **Recommendation**: Review pricing structures, offer promotional discounts, or provide value-added services to reduce price-related churn.
+
+By analyzing the churn trends, we can implement effective strategies to reduce customer turnover and enhance overall retention, particularly focusing on high-risk segments and demographics.
+
 ### 3. **Power BI Dashboard Creation**
 
 #### Churn Trends & Insights:
