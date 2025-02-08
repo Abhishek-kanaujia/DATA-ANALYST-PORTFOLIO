@@ -50,6 +50,7 @@ An interactive Power BI dashboard is created to visualize customer churn insight
 - **New Joiners**: Count of customers who joined the service.
 - **Total Churn**: Count of churned customers (based on the Churn Status column).
 - **Churn Rate**: The percentage of churned customers relative to the total customer base.
+
 ![Churn Trends & Insights](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnTrends%26Insights.jpeg)
 
 ### Key Insights & Results
@@ -152,6 +153,101 @@ Machine learning algorithm (Random Forest) is applied to predict churn using the
 
 #### Model Evaluation:
 The model is evaluated using common metrics such as accuracy, precision, recall, f1 score and support to ensure the effectiveness of the churn prediction model.
+
+# Power BI Dashboard Creation
+
+## Churn Prediction Dashboard:
+
+A dedicated dashboard visualizing the churn predictions using machine learning models, based on the Predictions table.
+
+### Key Features:
+- **Predicted Churners:** Displays the number of customers predicted to churn based on the machine learning model.
+- **Predicted Churn Rate:** Dynamically updates to show the count of customers predicted to churn.
+
+![Churn Prediction Dashboard](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnPredictionDashboard.jpeg)
+
+### Key Insights & Results
+
+**Overall Metrics:**
+- **Count of Predicted Churners:** 376
+
+**Predicted Churn Breakdown:**
+
+- **By Gender:**
+  - Female: 242 predicted churners (Higher risk group)
+  - Male: 134 predicted churners
+
+- **By Age Group:**
+  - > 50 years: 128 predicted churners (Highest)
+  - 36-50 years: 125 predicted churners
+  - 20-35 years: 111 predicted churners
+  - < 20 years: Very low predicted churn
+
+- **By State (Top 5 States with Highest Predicted Churn):**
+  - Uttar Pradesh: 42
+  - Maharashtra: 39
+  - Tamil Nadu: 37
+  - Karnataka: 30
+  - Andhra Pradesh: 24
+
+**Churn Rate Insights:**
+
+- **By Internet Type:**
+  - None: 144 predicted churners (Highest)
+  - DSL: 101 predicted churners
+  - Fiber Optic: 81 predicted churners
+  - Cable: 50 predicted churners (Lowest)
+
+- **By Contract Type:**
+  - Month-to-Month: 356 predicted churners (Overwhelmingly high churn)
+  - One Year: Very few predicted churners
+  - Two Year: Very few predicted churners
+
+- **By Payment Method:**
+  - Credit Card: 190 predicted churners (Highest)
+  - Bank Withdrawal: 150 predicted churners
+  - Mailed Check: 36 predicted churners (Lowest)
+
+- **Churn by Tenure Group:**
+  - ≥ 24 Months: 107 predicted churners (Highest)
+  - 6-12 Months: 88 predicted churners
+  - < 6 Months: 64 predicted churners
+  - 18-24 Months: 60 predicted churners
+  - 12-18 Months: 57 predicted churners (Lowest)
+
+- **By Marital Status:**
+  - Not Married: 51% of predicted churners
+  - Married: 49% of predicted churners
+
+### Actionable Insights & Recommendations
+
+- **Target Female Customers and Older Age Group:**
+  - **Insight:** Female customers and those aged over 50 are more likely to churn.
+  - **Recommendation:** Develop targeted retention strategies for female customers and older age groups, such as personalized offers, loyalty programs, or improved customer service to mitigate churn risk.
+
+- **Focus on Month-to-Month Contracts:**
+  - **Insight:** Month-to-Month contracts contribute overwhelmingly to the churn rate.
+  - **Recommendation:** Consider offering incentives for customers to switch to longer-term contracts (One Year or Two Year). Alternatively, introduce loyalty benefits for Month-to-Month customers to encourage longer-term commitments.
+
+- **Improve Internet Service for Customers with No Internet or DSL:**
+  - **Insight:** Customers with no internet service or DSL have the highest churn rates.
+  - **Recommendation:** Offer bundled deals or discounts to customers without internet services to encourage them to subscribe. For DSL users, focus on providing better service packages or upgrading them to higher-speed internet options like Fiber Optic or Cable.
+
+- **Optimize Credit Card Payment Options:**
+  - **Insight:** Credit Card payments are strongly associated with predicted churn.
+  - **Recommendation:** Consider introducing promotions or rewards specifically for Credit Card users to enhance customer satisfaction. Offering alternative payment methods or flexible payment plans may help reduce churn.
+
+- **Focus Retention Efforts in High-Risk States:**
+  - **Insight:** Uttar Pradesh and Maharashtra have the highest number of predicted churners.
+  - **Recommendation:** Tailor retention efforts and personalized offers for customers in these states. Regional promotions, localized support, or community-driven initiatives may help reduce churn in these areas.
+
+- **Engage Long-Tenure Customers (≥ 24 Months):**
+  - **Insight:** Long-tenure customers are at a higher churn risk, contrary to common expectations.
+  - **Recommendation:** Introduce special retention programs for long-tenure customers, such as exclusive benefits, discounts, or personalized support. Understanding the reasons behind their churn risk could also help in creating targeted loyalty programs.
+
+- **Leverage Marital Status Data for Personalized Offers:**
+  - **Insight:** Marital status is relatively evenly split, but offers could be tailored.
+  - **Recommendation:** Consider personalized offers based on marital status. For example, provide family-oriented packages or discounts to married customers, while offering individual promotions to those who are not married.
 
 ### 5. **Power BI Dashboard Creation**
 
