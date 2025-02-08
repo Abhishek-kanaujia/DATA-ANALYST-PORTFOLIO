@@ -40,7 +40,7 @@ A new table, `prod_Churn`, is created to handle missing values by replacing them
 - A new table is created for tenure groups based on `tenure_in_months`, categorized into ranges: "< 6 Months", "6-12 Months", "12-18 Months", "18-24 Months", and ">= 24 Months".
 - The `TenureGrpSorting` column is created for sorting these groups numerically.
 
-## Power BI Dashboard Creation
+### 3. **Power BI Dashboard Creation**
 
 ### Churn Trends & Insights Dashboard:
 
@@ -50,6 +50,7 @@ An interactive Power BI dashboard is created to visualize customer churn insight
 - **New Joiners**: Count of customers who joined the service.
 - **Total Churn**: Count of churned customers (based on the Churn Status column).
 - **Churn Rate**: The percentage of churned customers relative to the total customer base.
+![Churn Trends & Insights](https://github.com/Abhishek-kanaujia/DATA-ANALYST-PORTFOLIO/blob/main/Customer%20Churn%20Analysis%20%26%20Prediction/ChurnTrends%26Insights.jpeg)
 
 ### Key Insights & Results
 
