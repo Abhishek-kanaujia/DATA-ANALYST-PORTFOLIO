@@ -177,12 +177,6 @@ A dedicated dashboard visualizing the churn predictions using machine learning m
   - Female: 242 predicted churners (Higher risk group)
   - Male: 134 predicted churners
 
-- **By Age Group:**
-  - > 50 years: 128 predicted churners (Highest)
-  - 36-50 years: 125 predicted churners
-  - 20-35 years: 111 predicted churners
-  - < 20 years: Very low predicted churn
-
 - **By State (Top 5 States with Highest Predicted Churn):**
   - Uttar Pradesh: 42
   - Maharashtra: 39
